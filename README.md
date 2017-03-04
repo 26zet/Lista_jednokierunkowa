@@ -1,0 +1,2 @@
+# Lista_jednokierunkowa
+Implementacja listy jednokierunkowej
